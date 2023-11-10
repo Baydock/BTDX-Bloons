@@ -1,0 +1,3291 @@
+fileFormatVersion: 2
+guid: abebc4d6dda1eff4e9a96a2983228886
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10.8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lavender
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959655d756c269f70800000000000000
+      internalID: 9193584503729514841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f2857a08c655210800000000000000
+      internalID: 1321081365522296679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedLavender
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081631151e7ef1a60800000000000000
+      internalID: 7647085647212274048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe18080ef496c9350800000000000000
+      internalID: 6024806193304732143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoLavender
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ea6d27845243130800000000000000
+      internalID: 3545499799741967872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a5b7d62688354f0800000000000000
+      internalID: -841178749063177707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoLavender
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1c928a0245db8f0800000000000000
+      internalID: -523169482468113942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c636770fffb8b10800000000000000
+      internalID: 1984961469047073898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowLavender
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef47f255bd595230800000000000000
+      internalID: 3628034008186048490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd7ea3359d5e5120800000000000000
+      internalID: 2404462146461007289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowLavender
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec995f2aa0a5541e0800000000000000
+      internalID: -2214264640052553266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355c8605c7f959580800000000000000
+      internalID: -8820968938861443757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowLavender
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19673331d1c2829c0800000000000000
+      internalID: -3951860169629796719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2898d97567c0f45f0800000000000000
+      internalID: -770383308841449086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowLavender
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7623d51b1ace6200800000000000000
+      internalID: 175299653193115263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c133877a64e1a10800000000000000
+      internalID: 1882019379377544305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedLavender
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd718438907ead150800000000000000
+      internalID: 5898280690038347740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014ac65c2a19d6ba0800000000000000
+      internalID: -6094054592479452144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedLavender
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4068ae743f99eed0800000000000000
+      internalID: -2384199479903887284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840a8d0c49bd61220800000000000000
+      internalID: 2456392078714249288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedLavender
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413c1c2390480aff0800000000000000
+      internalID: -26876422723091692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c1a7b1ab89da2e0800000000000000
+      internalID: -2112864725074568173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedLavender
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b062e8eb9913cbe0800000000000000
+      internalID: -1458293696920133456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a3d779bcd056000800000000000000
+      internalID: 28444140718865031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedLavender
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c232b8c9527234e50800000000000000
+      internalID: 6792315705498477356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba0611dfc5b22980800000000000000
+      internalID: -8565083637134521668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedLavender
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ed90766212a3680800000000000000
+      internalID: -8774664475156816375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6ed7fee5cfa670800000000000000
+      internalID: 8552271847551298329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedLavender
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d595305b7e4d3dc0800000000000000
+      internalID: -3657681030821341740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af395ce8d9d58990800000000000000
+      internalID: -7384256488302624857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedLavender
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca01735d3dafa460800000000000000
+      internalID: 7255208003621685959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8201622cc999f610800000000000000
+      internalID: 1655523440064529038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticLavender
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b105b71dec3872d90800000000000000
+      internalID: -7122579361362128869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6e143cbc1b70480800000000000000
+      internalID: -8932975847153735960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticLavender
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7233312c7d2d46950800000000000000
+      internalID: 6441505191162491687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b38884b8ceedba40800000000000000
+      internalID: 5385723275194696627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticLavender
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ff664c9b06891b0800000000000000
+      internalID: -5649659381555986533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3632068904917d540800000000000000
+      internalID: 5032518873834857315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticLavender
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573f0be9da11506e0800000000000000
+      internalID: -1872070632713161867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f818f59bb26f00800000000000000
+      internalID: 1108654711073470047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticLavender
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0c12fa1ffbae5d0800000000000000
+      internalID: -3032400354334359392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f422d7f0d339230800000000000000
+      internalID: 3644323660206067466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticLavender
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1534065ecd5e5ad0800000000000000
+      internalID: -2711626784842697441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2f6e848a609e770800000000000000
+      internalID: 8640444679934374600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticLavender
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bc0b8952902c250800000000000000
+      internalID: 5963338913672121095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82ca4ed0c60e8780800000000000000
+      internalID: -8678992006463438197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticLavender
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a17d27559e8e7d0800000000000000
+      internalID: -2888802607749981631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6917c52923d08a970800000000000000
+      internalID: 8766271185531728278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b9fc41c04818ef0800000000000000
+      internalID: -107659728656557193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb17dd30ba7b1120800000000000000
+      internalID: 2385635324993149935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2a694df77ac7c20800000000000000
+      internalID: 3205621202250277545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398be0dd0920f2e30800000000000000
+      internalID: 4480802975464208531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b663ef7ddd1510800000000000000
+      internalID: 1521615790466838781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9687a6428de08d40800000000000000
+      internalID: 5584724681726330523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa10d3a1914d1d460800000000000000
+      internalID: 7264820878204797359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0d63050fd2f9770800000000000000
+      internalID: 8619658721971589343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f370d3cd9b900e260800000000000000
+      internalID: 7124705304368711487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec515eafeda91b970800000000000000
+      internalID: 8768960231949800910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962b46bb0bb0fedd0800000000000000
+      internalID: -2454730418207542679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4333e090f410a6260800000000000000
+      internalID: 7091482002214236980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddd80859e7ef5db0800000000000000
+      internalID: -4800863688363287083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0514722352db3930800000000000000
+      internalID: 4124121138289972494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e66ab217678d060800000000000000
+      internalID: 6978457851046293090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7982561a333eb530800000000000000
+      internalID: 3872589054160832890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a02ef1de668c0100800000000000000
+      internalID: 75583104286072996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9118f7b3e80b12b30800000000000000
+      internalID: 4260880847399256345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada15b2211ec0be00800000000000000
+      internalID: 1058572485424126682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29f2636e847e94f0800000000000000
+      internalID: -820089927233242837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4719071a59a9b43a0800000000000000
+      internalID: -6680075654824685196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc5603c894518ce0800000000000000
+      internalID: -1404748593679147849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02442b2c6ccc5be70800000000000000
+      internalID: 9130428973605602336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05afff7d63bbd2170800000000000000
+      internalID: 8155380344464341584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83826bc2b7a78de10800000000000000
+      internalID: 2222661085557041208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193652f5b6242a920800000000000000
+      internalID: 3000033330707391377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d94059f0821afa0800000000000000
+      internalID: -5791303598432019098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2187d6995d433c2f0800000000000000
+      internalID: -953860604065646574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc10332815c8ca0800000000000000
+      internalID: -6013341782803100635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c70cd2667f937880800000000000000
+      internalID: -8614366331416082494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d55d043d649bef0800000000000000
+      internalID: -91964444244615935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277fe73eb5bf41ae0800000000000000
+      internalID: -1579361197222856846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f2c4a6023847d10800000000000000
+      internalID: 2122465499643916069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca6cdf3286e7b500800000000000000
+      internalID: 412051338019236557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67d2eeaa3b177f10800000000000000
+      internalID: 2267310876260489068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61d698dd70ff0c0800000000000000
+      internalID: -4539901251291375895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ca2704376617ec0800000000000000
+      internalID: -3570960384339563439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a6e09b1293fc650800000000000000
+      internalID: 6255281224442341974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7939202fe7f9250800000000000000
+      internalID: 5953616810297497583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ec768f8018918c0800000000000000
+      internalID: -4028046516178923966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64611907363054350800000000000000
+      internalID: 6000205804166256198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eacd72eb5023de0800000000000000
+      internalID: -1355014223614398839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43358c305b1c55f90800000000000000
+      internalID: -6965448265461902540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951d1c248f4e278a0800000000000000
+      internalID: -6308728373069622951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38913c0e0ca8fdb20800000000000000
+      internalID: 3161398024446613891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1318d6d8d5a100ab0800000000000000
+      internalID: -5044002593547910863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticTatteredLavender
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dd76e1be48ee830800000000000000
+      internalID: 4102362455943404924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticTatteredLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66b48bd685360570800000000000000
+      internalID: 8432486205622629995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadLavender
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f474100a78d30890800000000000000
+      internalID: -7492907336515422985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221de9043b418c2d0800000000000000
+      internalID: -3258331570286702302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50caf7f569df55240800000000000000
+      internalID: 4780005401812773893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adcdfaf76bd12610800000000000000
+      internalID: 1594796982704917927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0493fa89c865ad70800000000000000
+      internalID: 9053757840727184398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffeb523368698ca0800000000000000
+      internalID: -6014161052120649738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ae8aef5c6d51650800000000000000
+      internalID: 6203100207642110543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fc3758ec701f770800000000000000
+      internalID: 8642697743484309284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7933991d7b46b8b0800000000000000
+      internalID: -5136835324297397891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4eaed261c8503d0800000000000000
+      internalID: -3241030329935665948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c1e314ac95b2090800000000000000
+      internalID: -8058248383036515270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d10e73b941459a0800000000000000
+      internalID: -6245344126366114474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bf00d9d54658780800000000000000
+      internalID: -8681422353457939692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeab5a89e77f3980800000000000000
+      internalID: -8556988922048303362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc4972a32b9757f0800000000000000
+      internalID: -623859446015505154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2453dc8e8237ef5e0800000000000000
+      internalID: -1873933775397898942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca18a68784fe18c0800000000000000
+      internalID: -4026512153905718579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024c65d38bcf5af40800000000000000
+      internalID: 5739271168386843680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aa8bbfcc54573b0800000000000000
+      internalID: -5515425421946475886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af38e0b8333279dc0800000000000000
+      internalID: -3632395870167727110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a226407e0a9a4e0800000000000000
+      internalID: -1969866447926449510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb333c9e9de66f380800000000000000
+      internalID: -8937834528261327941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b3fe60250b5b0a0800000000000000
+      internalID: -6866388190506304712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd49a9a03d9fca7b0800000000000000
+      internalID: -5211515983963188001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019cc290eb853b120800000000000000
+      internalID: 2428382197303789840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f035bfbaf10cb7810800000000000000
+      internalID: 1764214921307575055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096277b9929a8ffe0800000000000000
+      internalID: -1154987308253501808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66683154e3fe788a0800000000000000
+      internalID: -6302806102755801498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28a3c623b9ddd080800000000000000
+      internalID: -9160926703528990675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083244f8f70105ff0800000000000000
+      internalID: -49521455850577024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace1b64a7df6f1b40800000000000000
+      internalID: 5413168249089760970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba395759c6daeba0800000000000000
+      internalID: -6058794188431344971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edaaf2085bdbdaf0800000000000000
+      internalID: -370461373274346008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ae798f99c58bb90800000000000000
+      internalID: -7225923785745503639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5943ad0ec9d91dc10800000000000000
+      internalID: 2076614200307365013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1472d2b5c5212e070800000000000000
+      internalID: 8134084064860514113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bf1e7ac7dca7460800000000000000
+      internalID: 7240325286227737424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d8706a9f0de6530800000000000000
+      internalID: 3850244502099299588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7fb7ce000dbea30800000000000000
+      internalID: 4245715776112949173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78da2b11e0f54bb0800000000000000
+      internalID: -4952287365609891715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f150ab3095647650800000000000000
+      internalID: 6229715854710297072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f060e40c1f2b3d450800000000000000
+      internalID: 6112425870655096335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669ed9b1c44e79520800000000000000
+      internalID: 2708884716418623846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9e51ccb1bb5fd0800000000000000
+      internalID: -2352090956114780909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17312f6023c7098c0800000000000000
+      internalID: -3994556315170892943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5760316b88d6c210800000000000000
+      internalID: 1353006831214028636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticLeadLavender
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e551094fe9ed81f0800000000000000
+      internalID: -1040918724921436702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticLeadLavenderIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01576651c409fcc0800000000000000
+      internalID: -3676902392346488564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FortifiedCamoRegrowTatteredLavenderIcon: 3872589054160832890
+      FortifiedStaticLeadLavenderIcon: 8134084064860514113
+      LeadLavender: -7492907336515422985
+      RegrowTatteredLavenderIcon: 8768960231949800910
+      CamoRegrowShieldedLavenderIcon: -7384256488302624857
+      FortifiedCamoStaticLeadLavender: 4245715776112949173
+      CamoTatteredLavender: 1521615790466838781
+      ShieldedTatteredLavender: 75583104286072996
+      FortifiedCamoRegrowStaticLavender: -2888802607749981631
+      CamoRegrowTatteredLavenderIcon: 4124121138289972494
+      FortifiedCamoRegrowStaticTatteredLavenderIcon: 8432486205622629995
+      CamoRegrowLavenderIcon: -770383308841449086
+      FortifiedCamoRegrowStaticLavenderIcon: 8766271185531728278
+      FortifiedStaticTatteredLavenderIcon: -4539901251291375895
+      CamoTatteredLavenderIcon: 5584724681726330523
+      FortifiedCamoShieldedLeadLavenderIcon: -5211515983963188001
+      RegrowStaticLavender: -3032400354334359392
+      FortifiedRegrowShieldedLeadLavender: -1154987308253501808
+      CamoRegrowShieldedTatteredLavender: -6013341782803100635
+      CamoRegrowLeadLavenderIcon: -8556988922048303362
+      FortifiedCamoLavender: -523169482468113942
+      FortifiedLeadLavenderIcon: 1594796982704917927
+      FortifiedCamoTatteredLavender: 7264820878204797359
+      ShieldedLavender: 5898280690038347740
+      FortifiedCamoShieldedTatteredLavender: 9130428973605602336
+      FortifiedCamoRegrowLeadLavender: -623859446015505154
+      FortifiedCamoRegrowLavenderIcon: 1882019379377544305
+      RegrowShieldedLavenderIcon: -8565083637134521668
+      FortifiedCamoRegrowLeadLavenderIcon: -1873933775397898942
+      CamoRegrowLeadLavender: -8681422353457939692
+      StaticLeadLavenderIcon: -7225923785745503639
+      FortifiedCamoStaticTatteredLavender: 5953616810297497583
+      FortifiedRegrowTatteredLavenderIcon: 7091482002214236980
+      FortifiedCamoRegrowTatteredLavender: 6978457851046293090
+      RegrowStaticLeadLavender: 6229715854710297072
+      FortifiedCamoRegrowStaticLeadLavender: -1040918724921436702
+      FortifiedRegrowLeadLavenderIcon: -6245344126366114474
+      FortifiedStaticLeadLavender: 2076614200307365013
+      FortifiedCamoLeadLavenderIcon: 8642697743484309284
+      FortifiedShieldedLeadLavenderIcon: -3632395870167727110
+      StaticLavenderIcon: -8932975847153735960
+      CamoRegrowStaticLavender: 5963338913672121095
+      FortifiedRegrowStaticLavender: -2711626784842697441
+      RegrowShieldedTatteredLavenderIcon: 3000033330707391377
+      FortifiedLavender: 7647085647212274048
+      FortifiedCamoLavenderIcon: 1984961469047073898
+      CamoStaticLavenderIcon: 5032518873834857315
+      CamoShieldedLeadLavenderIcon: -8937834528261327941
+      CamoLeadLavender: 9053757840727184398
+      FortifiedRegrowStaticTatteredLavender: -6965448265461902540
+      FortifiedRegrowLavenderIcon: -8820968938861443757
+      CamoShieldedLavender: -26876422723091692
+      FortifiedRegrowShieldedTatteredLavenderIcon: -953860604065646574
+      FortifiedRegrowShieldedLeadLavenderIcon: -6302806102755801498
+      FortifiedCamoStaticLavenderIcon: 1108654711073470047
+      FortifiedCamoRegrowShieldedLeadLavenderIcon: -6058794188431344971
+      CamoRegrowShieldedLeadLavender: -9160926703528990675
+      FortifiedRegrowStaticLavenderIcon: 8640444679934374600
+      FortifiedCamoShieldedLavender: -1458293696920133456
+      FortifiedCamoRegrowShieldedTatteredLavenderIcon: -1579361197222856846
+      FortifiedRegrowShieldedLavender: -8774664475156816375
+      FortifiedCamoStaticLavender: -1872070632713161867
+      StaticTatteredLavender: 2122465499643916069
+      RegrowLeadLavenderIcon: -3241030329935665948
+      FortifiedTatteredLavenderIcon: 4480802975464208531
+      RegrowStaticTatteredLavenderIcon: -1355014223614398839
+      FortifiedShieldedLeadLavender: -5515425421946475886
+      FortifiedCamoShieldedLavenderIcon: 28444140718865031
+      FortifiedLeadLavender: 4780005401812773893
+      FortifiedCamoRegrowLavender: 175299653193115263
+      ShieldedLavenderIcon: -6094054592479452144
+      RegrowTatteredLavender: 7124705304368711487
+      FortifiedStaticLavenderIcon: 5385723275194696627
+      RegrowShieldedTatteredLavender: 2222661085557041208
+      CamoRegrowShieldedTatteredLavenderIcon: -8614366331416082494
+      FortifiedRegrowStaticLeadLavenderIcon: -2352090956114780909
+      CamoRegrowShieldedLeadLavenderIcon: -49521455850577024
+      FortifiedShieldedLavenderIcon: 2456392078714249288
+      TatteredLavender: -107659728656557193
+      CamoStaticTatteredLavenderIcon: 6255281224442341974
+      StaticLavender: -7122579361362128869
+      RegrowStaticLavenderIcon: 3644323660206067466
+      CamoLeadLavenderIcon: -6014161052120649738
+      FortifiedStaticTatteredLavender: 2267310876260489068
+      FortifiedCamoShieldedTatteredLavenderIcon: 8155380344464341584
+      ShieldedLeadLavender: -4026512153905718579
+      RegrowStaticLeadLavenderIcon: 6112425870655096335
+      FortifiedCamoStaticTatteredLavenderIcon: -4028046516178923966
+      CamoStaticLeadLavenderIcon: 3850244502099299588
+      StaticTatteredLavenderIcon: 412051338019236557
+      RegrowShieldedLavender: 6792315705498477356
+      FortifiedCamoRegrowShieldedLeadLavender: 5413168249089760970
+      FortifiedCamoTatteredLavenderIcon: 8619658721971589343
+      CamoLavender: 3545499799741967872
+      CamoRegrowStaticLeadLavender: -3994556315170892943
+      CamoRegrowStaticTatteredLavender: 3161398024446613891
+      CamoRegrowTatteredLavender: -4800863688363287083
+      CamoRegrowStaticTatteredLavenderIcon: -5044002593547910863
+      Lavender: 9193584503729514841
+      CamoRegrowStaticLavenderIcon: -8678992006463438197
+      CamoRegrowLavender: -3951860169629796719
+      FortifiedCamoStaticLeadLavenderIcon: -4952287365609891715
+      CamoRegrowShieldedLavender: -3657681030821341740
+      LeadLavenderIcon: -3258331570286702302
+      CamoRegrowStaticLeadLavenderIcon: 1353006831214028636
+      RegrowStaticTatteredLavender: 6000205804166256198
+      FortifiedCamoShieldedLeadLavender: -6866388190506304712
+      FortifiedTatteredLavender: 3205621202250277545
+      CamoLavenderIcon: -841178749063177707
+      FortifiedRegrowLavender: -2214264640052553266
+      CamoStaticLavender: -5649659381555986533
+      CamoShieldedTatteredLavenderIcon: -1404748593679147849
+      FortifiedStaticLavender: 6441505191162491687
+      FortifiedShieldedTatteredLavender: 1058572485424126682
+      LavenderIcon: 1321081365522296679
+      RegrowLavenderIcon: 2404462146461007289
+      ShieldedLeadLavenderIcon: 5739271168386843680
+      StaticLeadLavender: -370461373274346008
+      FortifiedCamoRegrowShieldedLavender: 7255208003621685959
+      FortifiedCamoLeadLavender: 6203100207642110543
+      RegrowShieldedLeadLavenderIcon: 1764214921307575055
+      FortifiedRegrowStaticLeadLavender: 2708884716418623846
+      RegrowLavender: 3628034008186048490
+      FortifiedLavenderIcon: 6024806193304732143
+      ShieldedTatteredLavenderIcon: 4260880847399256345
+      FortifiedCamoRegrowShieldedTatteredLavender: -91964444244615935
+      FortifiedShieldedTatteredLavenderIcon: -820089927233242837
+      FortifiedCamoRegrowStaticLeadLavenderIcon: -3676902392346488564
+      FortifiedRegrowLeadLavender: -8058248383036515270
+      CamoShieldedLavenderIcon: -2112864725074568173
+      FortifiedRegrowShieldedTatteredLavender: -5791303598432019098
+      CamoStaticLeadLavender: 7240325286227737424
+      FortifiedRegrowShieldedLavenderIcon: 8552271847551298329
+      CamoStaticTatteredLavender: -3570960384339563439
+      FortifiedShieldedLavender: -2384199479903887284
+      CamoShieldedTatteredLavender: -6680075654824685196
+      RegrowShieldedLeadLavender: 2428382197303789840
+      CamoShieldedLeadLavender: -1969866447926449510
+      FortifiedCamoRegrowShieldedLavenderIcon: 1655523440064529038
+      TatteredLavenderIcon: 2385635324993149935
+      FortifiedRegrowStaticTatteredLavenderIcon: -6308728373069622951
+      FortifiedCamoRegrowStaticTatteredLavender: 4102362455943404924
+      FortifiedRegrowTatteredLavender: -2454730418207542679
+      RegrowLeadLavender: -5136835324297397891
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: btdxbloons
+  assetBundleVariant: 

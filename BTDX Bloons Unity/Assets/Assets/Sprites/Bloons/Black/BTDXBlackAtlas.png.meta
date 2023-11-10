@@ -1,0 +1,2939 @@
+fileFormatVersion: 2
+guid: 990d86c7bbbb33144a0f7bc74a34b944
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10.8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShieldedBlack
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a86809d921336d0800000000000000
+      internalID: -3012043257836828055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54c846fea50de0b0800000000000000
+      internalID: -5697891704539397028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedBlack
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7697762eb07aee8c0800000000000000
+      internalID: -3968050552181917337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5543d2893c0e25e0800000000000000
+      internalID: -1932593748947810979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedBlack
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a283cb9544b1cb20800000000000000
+      internalID: 3152999425195082407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a77619b27088110800000000000000
+      internalID: 1263267579181890155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedBlack
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315914fde3e08a1c0800000000000000
+      internalID: -4492324965105691373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e03dc4bbbb57500800000000000000
+      internalID: 393426955586965046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedBlack
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eec083472b17c720800000000000000
+      internalID: 2866289543294799590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9b0b35383543540800000000000000
+      internalID: 4986702510915893666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedBlack
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e49b6daf15aa600800000000000000
+      internalID: 480286448054521421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd78213ac090370800000000000000
+      internalID: 8289170483682204749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedBlack
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c24458ada7c05310800000000000000
+      internalID: 1391831833524847304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c6d032bbf7891d0800000000000000
+      internalID: -3343782281598899125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedBlack
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a44c5583a67a94a0800000000000000
+      internalID: -6585821060386765655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c809a3bfdda1b7f20800000000000000
+      internalID: 3421357882623037580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticBlack
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad48efb83a3f85a0800000000000000
+      internalID: -6516926120369566291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6425892860ff6d0800000000000000
+      internalID: -2954635672560712027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticBlack
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6f0faa4b3dd5970800000000000000
+      internalID: 8745378824338863837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5be01beee6646f70800000000000000
+      internalID: 9179575116819917659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticBlack
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4de178701d0c2e30800000000000000
+      internalID: 4479970093718170959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c1aa8b03f8872b0800000000000000
+      internalID: -5586557898333741936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticBlack
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25136bd239e915830800000000000000
+      internalID: 4058199094201823570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735eebee83dbe3f0800000000000000
+      internalID: -870369492168977547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticBlack
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df86a4ee24d61dc0800000000000000
+      internalID: -3668511548576985128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16304f36002fab7a0800000000000000
+      internalID: -6360505440216546463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticBlack
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d056be3d044868d0800000000000000
+      internalID: -2852955540261809968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca32476cf00bfca0800000000000000
+      internalID: -5982186595967419702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticBlack
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd05cec854369090800000000000000
+      internalID: -8028171729710543426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f71f3d48f24880800000000000000
+      internalID: -8628060925433742983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticBlack
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c1bb6f44f6e870800000000000000
+      internalID: 8711919151141209673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f80f7f8d9b01d0f0800000000000000
+      internalID: -1094080463129081612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a786ef32b921700800000000000000
+      internalID: 509640286740707975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4872c01da3c20a220800000000000000
+      internalID: 2495042824690214788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f8efd0043119f20800000000000000
+      internalID: 3427541957239279384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d23d5244642d4670800000000000000
+      internalID: 8524509682710950612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e856a3b04894150800000000000000
+      internalID: 5857357974131281563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d09bc69977b9c40800000000000000
+      internalID: 5520137269110443293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9958410028a3210800000000000000
+      internalID: 1313505178187831751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fa367dfaf31d6c0800000000000000
+      internalID: -4120442159601832036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9078c61a1fd6480800000000000000
+      internalID: -8904195212628784712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a38c4a097af9d0800000000000000
+      internalID: -2739744338161196605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a662c9cbb7bb94c60800000000000000
+      internalID: 7802973969515816554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a87de79608295720800000000000000
+      internalID: 2835341449190275241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c5b20d2a47faea0800000000000000
+      internalID: -5859336347559699370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515bb05e8d087e150800000000000000
+      internalID: 5901827505736365333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fade390db16cd00800000000000000
+      internalID: 992511350530748162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eead4615a626200800000000000000
+      internalID: 171816633610464849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd72d7c0761780b0800000000000000
+      internalID: -5726583727533687339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583bfc43380affab0800000000000000
+      internalID: -4972078978206551163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923872f75bd756b90800000000000000
+      internalID: -7249249806707096791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3f23e1d34e90870800000000000000
+      internalID: 8649695510492541926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2037d774f909f10800000000000000
+      internalID: 2274492941218284210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587cbcb58a90b8f60800000000000000
+      internalID: 8037528578672019333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d754da939a84920800000000000000
+      internalID: 2974813619063454984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d81de5d841a9ede0800000000000000
+      internalID: -1303333282948245296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ff4c1520e062d70800000000000000
+      internalID: 9017910706980585295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1485d2136de9e2e50800000000000000
+      internalID: 6786536331279161409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46677d0e650ee57e0800000000000000
+      internalID: -1774734539393370524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e469faafa0ff60800000000000000
+      internalID: 8066140081483999039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4d7fb38419e1890800000000000000
+      internalID: -7485385791213415179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b31b37a9d49ca70800000000000000
+      internalID: 8847688268707347218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd7dbaf15bafa6a0800000000000000
+      internalID: -6435736973901726211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4f57865d1990a40800000000000000
+      internalID: 5334955579363685538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e31b710fb48950800000000000000
+      internalID: 6450490579382167454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ca945e2aff7ef40800000000000000
+      internalID: 5757851723713063942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2c8ad61e9dd700800000000000000
+      internalID: 566782949111639388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74511b0a7adced5f0800000000000000
+      internalID: -729919969748249273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197dfe33d7beeabd0800000000000000
+      internalID: -2616895410480883823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff875dc50bb750d0800000000000000
+      internalID: -3434070557252415495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad60090130504c520800000000000000
+      internalID: 2721305585559537370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca6dc5ec68fc3f30800000000000000
+      internalID: 4556790069587700417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3b6384a20f000d0800000000000000
+      internalID: -3458500449429703748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe2075fe73725100800000000000000
+      internalID: 95265531249045183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a466e155b4bbb9b00800000000000000
+      internalID: 836468088032355914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b59b8d99cb75cd0800000000000000
+      internalID: -2569377693439534296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ef3bfb90a3ff8d0800000000000000
+      internalID: -2810463828910539167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8605cb07e65e770800000000000000
+      internalID: 8639432890654943450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticTatteredBlack
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af405500a18fb910800000000000000
+      internalID: 1855344095783833508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticTatteredBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aa91e855b3ac310800000000000000
+      internalID: 1426017470658488980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadBlack
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50155050d14810a10800000000000000
+      internalID: 1873924180135989509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6533e26733d01bb90800000000000000
+      internalID: -7227981412275702954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac1a04c4c366f3b0800000000000000
+      internalID: -5479082199895892829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e2374c97488f010800000000000000
+      internalID: 1222872957352881818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5966009359214570800000000000000
+      internalID: 8449079814799124829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054f0781131d2d4a0800000000000000
+      internalID: -6569958897586473904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ac852f1f8c77500800000000000000
+      internalID: 394004433896786512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd6dd3656dcebb70800000000000000
+      internalID: 8916790147591007699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32decbf7ac5fcd040800000000000000
+      internalID: 4673880763379019043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d8547e95c0c4c0800000000000000
+      internalID: -4269195162399747959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b78773c7da979c50800000000000000
+      internalID: 6671971624460715959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a83a653e4f9b380800000000000000
+      internalID: -8954857126801208728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfc601ed31cee4a0800000000000000
+      internalID: -6562095135519748157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed29820a5c1d6b3e0800000000000000
+      internalID: -2038211134612794658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5de006728bd46f0800000000000000
+      internalID: -698699887917738578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf150b6c2c577860800000000000000
+      internalID: 7527586648016887743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3148aa6613fb9b710800000000000000
+      internalID: 1709607752460567571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f02084df5c3da80800000000000000
+      internalID: -8443187184764055691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b70cf3fa437940800000000000000
+      internalID: 5292656398856337253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c39527ae34cff40800000000000000
+      internalID: 5763556297347251228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf12507e72ff2c450800000000000000
+      internalID: 6107724591512494588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e90275e8de7b280800000000000000
+      internalID: -9027485732437975507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41634df0f1dca0ab0800000000000000
+      internalID: -5040991299594602988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff70632c44222bf0800000000000000
+      internalID: -350677911551836169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b059d3b20c3d050800000000000000
+      internalID: 5824210035069488005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a4a8b941b4d3fa0800000000000000
+      internalID: -5819412591611852172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4d37aa8cdc616c0800000000000000
+      internalID: -4172921742975314755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e03100b770d0b70800000000000000
+      internalID: 8866751466225995269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee181d95fd3dab10800000000000000
+      internalID: 1994318335106883304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c3ee45ae7db2d10800000000000000
+      internalID: 2102011052545686564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd98d6bdf8a3c9f90800000000000000
+      internalID: -6945612135776024099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba90bbbf2fd8ebe0800000000000000
+      internalID: -1447661884094244166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daec28091cc408a0800000000000000
+      internalID: -6339717967547405610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638dc91af998de660800000000000000
+      internalID: 7416735480053291062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48cc481019f5f9d0800000000000000
+      internalID: -2741010950662600626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367174b4edbbc6880800000000000000
+      internalID: -8616305423646517405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be812fec7ca1ea430800000000000000
+      internalID: 3796000981392693483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a245981c1f4c0bc0800000000000000
+      internalID: -3815587802199539038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80787bceea2ab8f20800000000000000
+      internalID: 3426010813724854024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefb1003fdc80e9a0800000000000000
+      internalID: -6205805396305526806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d043470202b4ab0800000000000000
+      internalID: -5022885635641045757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484a00e9ef7916620800000000000000
+      internalID: 2765658766010524804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd30e3e154bb71450800000000000000
+      internalID: 6059517729184809948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5471167d6214140800000000000000
+      internalID: 4702082192440247762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01023d1cd826e6820800000000000000
+      internalID: 2913374369937039376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a968f75d75dd3f0800000000000000
+      internalID: -874446178160829806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticLeadBlack
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb35bfb47bab6e770800000000000000
+      internalID: 8639798231573418942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticLeadBlackIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd24843f046ea5d90800000000000000
+      internalID: -7108115895217012004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CamoShieldedTatteredBlack: 2274492941218284210
+      FortifiedCamoShieldedLeadBlack: -5040991299594602988
+      FortifiedShieldedLeadBlack: 5292656398856337253
+      FortifiedRegrowShieldedBlack: 480286448054521421
+      CamoRegrowStaticBlack: -8028171729710543426
+      CamoRegrowShieldedLeadBlackIcon: 2102011052545686564
+      StaticLeadBlackIcon: 7416735480053291062
+      CamoRegrowShieldedBlack: 1391831833524847304
+      CamoTatteredBlack: 5857357974131281563
+      RegrowTatteredBlack: -8904195212628784712
+      FortifiedRegrowStaticBlack: -2852955540261809968
+      CamoRegrowStaticBlackIcon: -8628060925433742983
+      FortifiedLeadBlackIcon: 1222872957352881818
+      RegrowStaticLeadBlack: -5022885635641045757
+      CamoRegrowShieldedTatteredBlackIcon: 8847688268707347218
+      CamoRegrowStaticLeadBlackIcon: -874446178160829806
+      CamoStaticTatteredBlack: -2616895410480883823
+      FortifiedCamoRegrowLeadBlack: -698699887917738578
+      RegrowLeadBlack: 4673880763379019043
+      RegrowStaticLeadBlackIcon: 2765658766010524804
+      CamoRegrowTatteredBlackIcon: 5901827505736365333
+      FortifiedCamoLeadBlack: 394004433896786512
+      CamoShieldedTatteredBlackIcon: 8037528578672019333
+      FortifiedStaticLeadBlack: -2741010950662600626
+      CamoRegrowShieldedLeadBlack: 1994318335106883304
+      FortifiedRegrowLeadBlack: 6671971624460715959
+      FortifiedCamoShieldedBlack: -4492324965105691373
+      FortifiedCamoShieldedBlackIcon: 393426955586965046
+      RegrowLeadBlackIcon: -4269195162399747959
+      FortifiedRegrowShieldedLeadBlackIcon: 8866751466225995269
+      CamoRegrowShieldedBlackIcon: -3343782281598899125
+      RegrowShieldedLeadBlackIcon: -5819412591611852172
+      FortifiedCamoStaticBlack: 4058199094201823570
+      StaticTatteredBlack: 6450490579382167454
+      RegrowTatteredBlackIcon: -2739744338161196605
+      FortifiedCamoStaticBlackIcon: -870369492168977547
+      RegrowStaticBlackIcon: -6360505440216546463
+      FortifiedShieldedBlack: -3968050552181917337
+      CamoShieldedBlackIcon: 1263267579181890155
+      FortifiedRegrowStaticBlackIcon: -5982186595967419702
+      CamoRegrowLeadBlackIcon: -2038211134612794658
+      FortifiedStaticTatteredBlack: 566782949111639388
+      FortifiedCamoShieldedLeadBlackIcon: -350677911551836169
+      FortifiedCamoRegrowStaticBlack: 8711919151141209673
+      CamoRegrowStaticTatteredBlackIcon: 8639432890654943450
+      FortifiedRegrowStaticTatteredBlack: 836468088032355914
+      FortifiedCamoTatteredBlackIcon: -4120442159601832036
+      StaticLeadBlack: -6339717967547405610
+      FortifiedCamoTatteredBlack: 1313505178187831751
+      FortifiedCamoStaticLeadBlackIcon: -6205805396305526806
+      RegrowStaticBlack: -3668511548576985128
+      FortifiedStaticBlackIcon: 9179575116819917659
+      FortifiedCamoLeadBlackIcon: 8916790147591007699
+      CamoTatteredBlackIcon: 5520137269110443293
+      FortifiedStaticLeadBlackIcon: -8616305423646517405
+      FortifiedRegrowShieldedLeadBlack: -4172921742975314755
+      FortifiedCamoRegrowShieldedLeadBlackIcon: -1447661884094244166
+      FortifiedRegrowStaticLeadBlackIcon: 4702082192440247762
+      FortifiedCamoStaticLeadBlack: 3426010813724854024
+      FortifiedRegrowShieldedBlackIcon: 8289170483682204749
+      RegrowStaticTatteredBlack: -3458500449429703748
+      FortifiedLeadBlack: -5479082199895892829
+      FortifiedCamoRegrowStaticTatteredBlackIcon: 1426017470658488980
+      FortifiedCamoRegrowShieldedBlack: -6585821060386765655
+      RegrowShieldedTatteredBlack: 9017910706980585295
+      CamoStaticBlackIcon: -5586557898333741936
+      FortifiedShieldedBlackIcon: -1932593748947810979
+      RegrowShieldedTatteredBlackIcon: 6786536331279161409
+      RegrowStaticTatteredBlackIcon: 95265531249045183
+      FortifiedCamoRegrowStaticTatteredBlack: 1855344095783833508
+      CamoRegrowStaticLeadBlack: 2913374369937039376
+      CamoLeadBlackIcon: -6569958897586473904
+      CamoRegrowTatteredBlack: -5859336347559699370
+      CamoShieldedLeadBlackIcon: -9027485732437975507
+      FortifiedRegrowTatteredBlack: 7802973969515816554
+      FortifiedShieldedLeadBlackIcon: 5763556297347251228
+      FortifiedCamoRegrowStaticBlackIcon: -1094080463129081612
+      ShieldedTatteredBlackIcon: -4972078978206551163
+      CamoRegrowStaticTatteredBlack: -2810463828910539167
+      RegrowShieldedBlackIcon: 4986702510915893666
+      FortifiedTatteredBlackIcon: 8524509682710950612
+      CamoLeadBlack: 8449079814799124829
+      CamoStaticTatteredBlackIcon: -3434070557252415495
+      ShieldedBlackIcon: -5697891704539397028
+      ShieldedLeadBlack: 1709607752460567571
+      FortifiedCamoRegrowShieldedLeadBlack: -6945612135776024099
+      FortifiedRegrowTatteredBlackIcon: 2835341449190275241
+      RegrowShieldedBlack: 2866289543294799590
+      FortifiedRegrowShieldedTatteredBlack: -1774734539393370524
+      FortifiedShieldedTatteredBlackIcon: 8649695510492541926
+      TatteredBlack: 509640286740707975
+      FortifiedStaticTatteredBlackIcon: -729919969748249273
+      FortifiedShieldedTatteredBlack: -7249249806707096791
+      CamoStaticBlack: 4479970093718170959
+      FortifiedCamoRegrowShieldedBlackIcon: 3421357882623037580
+      LeadBlackIcon: -7227981412275702954
+      FortifiedCamoRegrowStaticLeadBlack: 8639798231573418942
+      FortifiedTatteredBlack: 3427541957239279384
+      FortifiedCamoRegrowStaticLeadBlackIcon: -7108115895217012004
+      FortifiedCamoStaticTatteredBlackIcon: 4556790069587700417
+      FortifiedRegrowShieldedTatteredBlackIcon: 8066140081483999039
+      FortifiedCamoStaticTatteredBlack: 2721305585559537370
+      FortifiedCamoRegrowTatteredBlackIcon: 171816633610464849
+      CamoShieldedLeadBlack: 6107724591512494588
+      CamoRegrowShieldedTatteredBlack: -7485385791213415179
+      FortifiedCamoRegrowShieldedTatteredBlackIcon: 5334955579363685538
+      ShieldedLeadBlackIcon: -8443187184764055691
+      FortifiedRegrowLeadBlackIcon: -8954857126801208728
+      FortifiedStaticBlack: 8745378824338863837
+      FortifiedCamoRegrowTatteredBlack: 992511350530748162
+      FortifiedRegrowStaticLeadBlack: 6059517729184809948
+      CamoStaticLeadBlack: 3796000981392693483
+      StaticBlack: -6516926120369566291
+      CamoRegrowLeadBlack: -6562095135519748157
+      CamoShieldedBlack: 3152999425195082407
+      StaticTatteredBlackIcon: 5757851723713063942
+      FortifiedCamoRegrowShieldedTatteredBlack: -6435736973901726211
+      ShieldedTatteredBlack: -5726583727533687339
+      FortifiedCamoRegrowLeadBlackIcon: 7527586648016887743
+      FortifiedRegrowStaticTatteredBlackIcon: -2569377693439534296
+      FortifiedCamoShieldedTatteredBlackIcon: -1303333282948245296
+      StaticBlackIcon: -2954635672560712027
+      CamoStaticLeadBlackIcon: -3815587802199539038
+      TatteredBlackIcon: 2495042824690214788
+      FortifiedCamoShieldedTatteredBlack: 2974813619063454984
+      RegrowShieldedLeadBlack: 5824210035069488005
+      ShieldedBlack: -3012043257836828055
+      LeadBlack: 1873924180135989509
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: btdxbloons
+  assetBundleVariant: 

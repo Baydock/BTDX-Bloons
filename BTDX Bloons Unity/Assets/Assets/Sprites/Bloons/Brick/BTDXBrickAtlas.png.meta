@@ -1,0 +1,3291 @@
+fileFormatVersion: 2
+guid: 2c0434e4e4740b14596dac3d1ecdd236
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10.8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brick
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92eb714ee42186a0800000000000000
+      internalID: -6448832585698385253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrickIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc21e460211966d0800000000000000
+      internalID: -2996845246209250051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedBrick
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad737a0f081e6a6d0800000000000000
+      internalID: -2979446159549450278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d295361828f6cc0800000000000000
+      internalID: -3715607675328189151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoBrick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368bc440e40829010800000000000000
+      internalID: 1194157923774543971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2c0db48246c2110800000000000000
+      internalID: 1237474121853485731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoBrick
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead99603985078d90800000000000000
+      internalID: -7095696601118040658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb471f1cc4db9ff0800000000000000
+      internalID: -28194999487738933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowBrick
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283ccf9b961f389f0800000000000000
+      internalID: -467264499922189438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8878f067bf5bd8180800000000000000
+      internalID: -9111426379478497400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowBrick
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe09ce9c6ff3b040800000000000000
+      internalID: 4662350881244122811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a126d1d2b229af0800000000000000
+      internalID: -391202744861320702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowBrick
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c649b0bfc85a60800000000000000
+      internalID: 7663103123900514926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37ed59b413ca6f10800000000000000
+      internalID: 2263836256483796798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowBrick
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2076
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9748bf0fe98c1270800000000000000
+      internalID: 8222598679525607327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec1897601cfb7ff0800000000000000
+      internalID: -37159024514818836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedBrick
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1feda758f1913a20800000000000000
+      internalID: 3040371719260729119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ccb0d4973773d50800000000000000
+      internalID: 6716964334067239947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedBrick
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6c68137c5d182d0800000000000000
+      internalID: -3278104002242885942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064988ee31beee980800000000000000
+      internalID: -8507604175217453984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedBrick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc243b94818fbcec0800000000000000
+      internalID: -3545467498424745268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4046bb30ccd135ea0800000000000000
+      internalID: -5885327525969959932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedBrick
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e4d38d7213768a0800000000000000
+      internalID: -6312022305535078870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7d0a892c7109d90800000000000000
+      internalID: -7093143288556759054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedBrick
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd3d39c18ba0e930800000000000000
+      internalID: 4170521828860444149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b3f6f51af1157b0800000000000000
+      internalID: -5237370113703855316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedBrick
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80881c7cae461de60800000000000000
+      internalID: 7985274573841074184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb0d97a23e193c40800000000000000
+      internalID: 5492454423464315831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedBrick
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c4d4a77aa583420800000000000000
+      internalID: 2609935659419126822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2423e13353b8e430800000000000000
+      internalID: 3812494254469751853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedBrick
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1820
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7986835c90df1e0800000000000000
+      internalID: -2162561503408384037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d67d16ebe4094a90800000000000000
+      internalID: -7329321507344255278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticBrick
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e65eb5897998dc90800000000000000
+      internalID: -7144792061609355549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f38a19d02432a340800000000000000
+      internalID: 4873515062454289392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticBrick
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746b10b8c7e0f91c0800000000000000
+      internalID: -4494857975021586873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64b1b5b604dbb720800000000000000
+      internalID: 2863115113407296620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticBrick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b32000dc707ded0800000000000000
+      internalID: -2389432500246922399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47646799103d3570800000000000000
+      internalID: 8447961362489173837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticBrick
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec24652cf143bc3b0800000000000000
+      internalID: -5491238009639124274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07ee18aa884cfac0800000000000000
+      internalID: -3820098623553738998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticBrick
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2757175ef1c6d9cf0800000000000000
+      internalID: -243919920558934670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bf78a777d1ad8a0800000000000000
+      internalID: -6279674331420689548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticBrick
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5b6a42b5b2cfe60800000000000000
+      internalID: 7997314708760081852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5c4a16a540c63a0800000000000000
+      internalID: -6670952161810790951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticBrick
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f9946f0bb6ebb70800000000000000
+      internalID: 8916682720030596952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d396e475ab203f0800000000000000
+      internalID: -935980888399200927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticBrick
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1564
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787b51b5e5f24d900800000000000000
+      internalID: 708243123705591687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8a689b74f126b90800000000000000
+      internalID: -7250198057197328154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a5a326ea629c260800000000000000
+      internalID: 7118263216449935916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee336368cf1423dd0800000000000000
+      internalID: -2507869489652681746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ce2bb28fa803970800000000000000
+      internalID: 8732632475961060470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec3d8b422510fcc0800000000000000
+      internalID: -3679417658521076501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a282a0eb023bbc780800000000000000
+      internalID: -8661632505108355030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489e33e84383faca0800000000000000
+      internalID: -6003517979886360188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fc6b43754938310800000000000000
+      internalID: 1406130610937188236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f427ac8f6c6ba50800000000000000
+      internalID: 6536630681025531695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439cc13750227b580800000000000000
+      internalID: -8811536739125638860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa60e3d8b493cec0800000000000000
+      internalID: -3547828559888225540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a3721d744150c0800000000000000
+      internalID: -4588811241342655987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d593f2e52b33319d0800000000000000
+      internalID: -2804841301744338595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4d3f4d7093ecfa0800000000000000
+      internalID: -5778618566069463888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5462f462e499900800000000000000
+      internalID: 691669944221713855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1308
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca6fa0ab63b8ea30800000000000000
+      internalID: 4244839923635415750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf8fdb8de194e980800000000000000
+      internalID: -8510516946383433783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd50e0d960f96c380800000000000000
+      internalID: -8951292358598720037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968899bbe04e3d590800000000000000
+      internalID: -7650520590044264343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dc606942e6ad120800000000000000
+      internalID: 2439383251589451015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8baf8898eda4350800000000000000
+      internalID: 6001854135714625740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3a11b668348b6c0800000000000000
+      internalID: -4127474813884062756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a1af4e47fc3b0a0800000000000000
+      internalID: -6866916905845122440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594da5ab37b72add0800000000000000
+      internalID: -2476281108122381163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae2feb22b1e1b910800000000000000
+      internalID: 1851509077183508141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0a7ff1e8f296270800000000000000
+      internalID: 8244172880346587386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c370d3914ba62b80800000000000000
+      internalID: -8419854155181427771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bd2bfd49288fb0800000000000000
+      internalID: -4645417600729368474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3171ca3fe6764d0800000000000000
+      internalID: -3141420222224329766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23efae6b1c36c4500800000000000000
+      internalID: 381789752068341298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55002680452dc91f0800000000000000
+      internalID: -1036722555842330539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1052
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978114c13926a08c0800000000000000
+      internalID: -4032302132383115143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5817b1d75b539070800000000000000
+      internalID: 8111927786563115103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1086b05a15d5580800000000000000
+      internalID: -8836817124528225818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7882f697ce4a6c10800000000000000
+      internalID: 2047535599731247226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b94dff5712b34670800000000000000
+      internalID: 8521850733379537332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251f7c731a0e31590800000000000000
+      internalID: -7704567554470579886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50526bf811c7d2d0800000000000000
+      internalID: -3253919892710993825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22202a21b3126d10800000000000000
+      internalID: 2117276426454442541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1d14448af9c9df0800000000000000
+      internalID: -172087140698435086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f45fbb3a9be75980800000000000000
+      internalID: -8550106319879711498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c73232fc849bae90800000000000000
+      internalID: -7013348661619705912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e761d6043562310800000000000000
+      internalID: 1379881872008838746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31078bd1e28cc5c0800000000000000
+      internalID: -4193833246426463940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4399f55ba2dc208d0800000000000000
+      internalID: -2881515228248434380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8015f3bcfcbf150800000000000000
+      internalID: 5907543808074123508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e518fb79ae697120800000000000000
+      internalID: 2412080749641995750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticTatteredBrick
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 796
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb794f6edaf94b830800000000000000
+      internalID: 4086066331184830395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticTatteredBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee2d6961f3089540800000000000000
+      internalID: 5014762520467812064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadBrick
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864b69a793194cc60800000000000000
+      internalID: 7837548927587365992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a220f3a3db49d2300800000000000000
+      internalID: 229002696512700970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72042dfc6cc19dbd0800000000000000
+      internalID: -2605019269241356249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d940bfe04992e30800000000000000
+      internalID: 4479274096458505492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94593dc19b48c6a0800000000000000
+      internalID: -6428805378485955430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf384b429a15910800000000000000
+      internalID: 1824425299174227447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07789b66f1eaa1f0800000000000000
+      internalID: -1032764716044749042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3712f5546935c09f0800000000000000
+      internalID: -500933553670905485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764a77a59bba559a0800000000000000
+      internalID: -6244896495704234905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb3fdf0c698a7230800000000000000
+      internalID: 3637370746270858234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9eba2dcb2539710800000000000000
+      internalID: 1698792455390620141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309459115cb3d4d90800000000000000
+      internalID: -7111962518958552829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeea8d736711c050800000000000000
+      internalID: 5818957909614849709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aba6c27fd897f060800000000000000
+      internalID: 6987221432359365539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78f4978e07215dd0800000000000000
+      internalID: -2499173374856202113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144c1c35c29b6ee00800000000000000
+      internalID: 1073749161209349185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b55ade4173284e70800000000000000
+      internalID: 9099562016663295409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldedLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12acf016f384e20800000000000000
+      internalID: 3334985210177135025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79d6511088550090800000000000000
+      internalID: -8068945850294412933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedShieldedLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bd1c1e0b54565d0800000000000000
+      internalID: -3069970944978986215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ce0c1da219a8fa0800000000000000
+      internalID: -5797661957192356737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoShieldedLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c026af0e48c7920800000000000000
+      internalID: 2989410354475437178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e9c03ed6cc48e10800000000000000
+      internalID: 2199107290396401273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoShieldedLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583636dd75fab5e0800000000000000
+      internalID: -1892930772542277538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77dd9d5bd545fa0800000000000000
+      internalID: -5812918183402833997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowShieldedLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d574885043f278e0800000000000000
+      internalID: -1697026651876723239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c59e22abe526c8f0800000000000000
+      internalID: -520687012946209341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowShieldedLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2a3d40cc598d9f0800000000000000
+      internalID: -443439859809148183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae4da4d3f2edf550800000000000000
+      internalID: 6196358199204728490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowShieldedLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1f2b103e7f62ac0800000000000000
+      internalID: -3880141474574962269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 284
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee2b087321201550800000000000000
+      internalID: 6129435529072815841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowShieldedLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5759889c6099f90800000000000000
+      internalID: -6946513487592589845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de8065995eb020f0800000000000000
+      internalID: -1143705013384605999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StaticLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9881b772bbb2cd10800000000000000
+      internalID: 2144482747768473756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980c9d7918d7ffe40800000000000000
+      internalID: 5692406449571479689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedStaticLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23014a512e3735b00800000000000000
+      internalID: 816123372347068466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a303505e5d8c8c0800000000000000
+      internalID: -3978695091170559379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoStaticLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017682e0a522b3080800000000000000
+      internalID: -9206727243048917232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb409254b9577e20800000000000000
+      internalID: 3348243478987426806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoStaticLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae7701d2b9347260800000000000000
+      internalID: 7094358753189265056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692cefa11cfaae410800000000000000
+      internalID: 1507210269225304726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RegrowStaticLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c5283d8b4b0e2d0800000000000000
+      internalID: -3251400225045980122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d8d48ded4d8a730800000000000000
+      internalID: 4010689521750216042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedRegrowStaticLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cf26599ed97e010800000000000000
+      internalID: 1218115850786241616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3e62cf58ad7660800000000000000
+      internalID: 7385244093194844713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CamoRegrowStaticLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa2ef08c17f08490800000000000000
+      internalID: -7745919657281967365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticLeadBrick
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 28
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97407181390712390800000000000000
+      internalID: -7844865298836028295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FortifiedCamoRegrowStaticLeadBrickIcon
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8e67a91a96801b0800000000000000
+      internalID: -5690181986380486441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FortifiedLeadBrick: -2605019269241356249
+      CamoShieldedBrick: -3545467498424745268
+      FortifiedLeadBrickIcon: 4479274096458505492
+      FortifiedRegrowBrick: 4662350881244122811
+      BrickIcon: -2996845246209250051
+      RegrowBrick: -467264499922189438
+      FortifiedCamoShieldedBrick: -6312022305535078870
+      RegrowShieldedLeadBrickIcon: -1697026651876723239
+      CamoShieldedBrickIcon: -5885327525969959932
+      TatteredBrickIcon: -2507869489652681746
+      FortifiedRegrowShieldedLeadBrick: -520687012946209341
+      CamoRegrowShieldedLeadBrickIcon: -3880141474574962269
+      FortifiedRegrowStaticTatteredBrickIcon: -2881515228248434380
+      StaticLeadBrick: -1143705013384605999
+      CamoRegrowShieldedBrickIcon: 3812494254469751853
+      FortifiedShieldedTatteredBrick: 2439383251589451015
+      FortifiedCamoLeadBrick: -1032764716044749042
+      RegrowShieldedTatteredBrick: 8244172880346587386
+      RegrowTatteredBrick: -8811536739125638860
+      StaticTatteredBrickIcon: 2047535599731247226
+      StaticBrick: -7144792061609355549
+      CamoRegrowLeadBrick: 5818957909614849709
+      CamoRegrowStaticLeadBrick: 7385244093194844713
+      FortifiedRegrowShieldedBrick: 7985274573841074184
+      FortifiedCamoRegrowShieldedTatteredBrick: -4032302132383115143
+      FortifiedCamoRegrowShieldedBrick: -2162561503408384037
+      CamoStaticLeadBrickIcon: -9206727243048917232
+      FortifiedCamoBrickIcon: -28194999487738933
+      CamoRegrowStaticTatteredBrick: 5907543808074123508
+      CamoRegrowShieldedTatteredBrick: 381789752068341298
+      FortifiedRegrowStaticBrick: 7997314708760081852
+      RegrowShieldedBrickIcon: -5237370113703855316
+      LeadBrick: 7837548927587365992
+      FortifiedShieldedLeadBrick: -8068945850294412933
+      FortifiedCamoRegrowLeadBrick: -2499173374856202113
+      FortifiedCamoRegrowStaticBrick: 708243123705591687
+      CamoRegrowShieldedTatteredBrickIcon: -1036722555842330539
+      FortifiedStaticTatteredBrickIcon: -7704567554470579886
+      FortifiedCamoStaticTatteredBrick: -172087140698435086
+      FortifiedCamoRegrowBrick: 8222598679525607327
+      FortifiedCamoStaticBrick: -5491238009639124274
+      FortifiedCamoStaticLeadBrickIcon: 7094358753189265056
+      RegrowLeadBrick: -6244896495704234905
+      FortifiedRegrowStaticBrickIcon: -6670952161810790951
+      FortifiedRegrowStaticLeadBrick: 4010689521750216042
+      FortifiedCamoRegrowLeadBrickIcon: 1073749161209349185
+      CamoRegrowStaticLeadBrickIcon: -7745919657281967365
+      Brick: -6448832585698385253
+      LeadBrickIcon: 229002696512700970
+      CamoRegrowStaticBrickIcon: -935980888399200927
+      RegrowLeadBrickIcon: 3637370746270858234
+      RegrowShieldedLeadBrick: -5812918183402833997
+      RegrowStaticLeadBrick: 1507210269225304726
+      FortifiedCamoRegrowShieldedLeadBrick: 6129435529072815841
+      CamoStaticBrickIcon: 8447961362489173837
+      FortifiedShieldedBrick: -3278104002242885942
+      FortifiedCamoShieldedBrickIcon: -7093143288556759054
+      FortifiedCamoRegrowStaticTatteredBrickIcon: 5014762520467812064
+      CamoStaticBrick: -2389432500246922399
+      CamoShieldedLeadBrick: -5797661957192356737
+      CamoTatteredBrick: -8661632505108355030
+      CamoStaticLeadBrick: -3978695091170559379
+      CamoRegrowTatteredBrickIcon: 691669944221713855
+      FortifiedCamoRegrowTatteredBrick: 4244839923635415750
+      FortifiedCamoShieldedLeadBrickIcon: -1892930772542277538
+      FortifiedStaticLeadBrick: 5692406449571479689
+      FortifiedCamoRegrowStaticLeadBrick: -7844865298836028295
+      FortifiedShieldedBrickIcon: -8507604175217453984
+      ShieldedTatteredBrickIcon: -7650520590044264343
+      FortifiedRegrowShieldedLeadBrickIcon: -443439859809148183
+      FortifiedStaticBrickIcon: 2863115113407296620
+      FortifiedCamoRegrowBrickIcon: -37159024514818836
+      FortifiedStaticTatteredBrick: 8521850733379537332
+      FortifiedCamoRegrowStaticBrickIcon: -7250198057197328154
+      FortifiedRegrowShieldedTatteredBrick: -4645417600729368474
+      RegrowStaticTatteredBrick: -7013348661619705912
+      CamoShieldedLeadBrickIcon: 2989410354475437178
+      CamoRegrowLeadBrickIcon: 6987221432359365539
+      FortifiedStaticBrick: -4494857975021586873
+      FortifiedCamoStaticBrickIcon: -3820098623553738998
+      FortifiedCamoShieldedTatteredBrick: -2476281108122381163
+      RegrowStaticTatteredBrickIcon: 1379881872008838746
+      CamoLeadBrick: -6428805378485955430
+      RegrowShieldedTatteredBrickIcon: -8419854155181427771
+      CamoShieldedTatteredBrickIcon: -6866916905845122440
+      TatteredBrick: 7118263216449935916
+      FortifiedStaticLeadBrickIcon: 816123372347068466
+      CamoBrickIcon: 1237474121853485731
+      ShieldedLeadBrickIcon: 3334985210177135025
+      FortifiedCamoStaticLeadBrick: 3348243478987426806
+      CamoRegrowStaticTatteredBrickIcon: 2412080749641995750
+      ShieldedLeadBrick: 9099562016663295409
+      FortifiedCamoBrick: -7095696601118040658
+      FortifiedCamoRegrowStaticLeadBrickIcon: -5690181986380486441
+      CamoStaticTatteredBrick: -3253919892710993825
+      FortifiedCamoRegrowStaticTatteredBrick: 4086066331184830395
+      FortifiedTatteredBrickIcon: -3679417658521076501
+      FortifiedShieldedLeadBrickIcon: -3069970944978986215
+      FortifiedRegrowLeadBrick: 1698792455390620141
+      FortifiedBrickIcon: -3715607675328189151
+      FortifiedCamoRegrowShieldedTatteredBrickIcon: 8111927786563115103
+      FortifiedRegrowStaticLeadBrickIcon: 1218115850786241616
+      FortifiedCamoRegrowShieldedBrickIcon: -7329321507344255278
+      RegrowStaticBrick: -243919920558934670
+      FortifiedRegrowTatteredBrick: -4588811241342655987
+      FortifiedCamoTatteredBrick: 1406130610937188236
+      FortifiedCamoLeadBrickIcon: -500933553670905485
+      CamoBrick: 1194157923774543971
+      FortifiedRegrowBrickIcon: -391202744861320702
+      FortifiedShieldedTatteredBrickIcon: 6001854135714625740
+      FortifiedRegrowShieldedBrickIcon: 5492454423464315831
+      FortifiedRegrowStaticTatteredBrick: -4193833246426463940
+      FortifiedBrick: -2979446159549450278
+      CamoTatteredBrickIcon: -6003517979886360188
+      CamoRegrowBrick: 7663103123900514926
+      CamoRegrowBrickIcon: 2263836256483796798
+      RegrowTatteredBrickIcon: -3547828559888225540
+      FortifiedTatteredBrick: 8732632475961060470
+      CamoShieldedTatteredBrick: -4127474813884062756
+      FortifiedCamoShieldedTatteredBrickIcon: 1851509077183508141
+      FortifiedRegrowTatteredBrickIcon: -2804841301744338595
+      StaticBrickIcon: 4873515062454289392
+      FortifiedCamoShieldedLeadBrick: 2199107290396401273
+      CamoRegrowShieldedBrick: 2609935659419126822
+      RegrowBrickIcon: -9111426379478497400
+      FortifiedRegrowLeadBrickIcon: -7111962518958552829
+      ShieldedBrick: 3040371719260729119
+      ShieldedBrickIcon: 6716964334067239947
+      CamoRegrowShieldedLeadBrick: 6196358199204728490
+      RegrowStaticLeadBrickIcon: -3251400225045980122
+      StaticTatteredBrick: -8836817124528225818
+      CamoRegrowTatteredBrick: -5778618566069463888
+      FortifiedCamoRegrowShieldedLeadBrickIcon: -6946513487592589845
+      FortifiedCamoRegrowTatteredBrickIcon: -8510516946383433783
+      FortifiedCamoStaticTatteredBrickIcon: -8550106319879711498
+      StaticLeadBrickIcon: 2144482747768473756
+      FortifiedRegrowShieldedTatteredBrickIcon: -3141420222224329766
+      CamoStaticTatteredBrickIcon: 2117276426454442541
+      CamoLeadBrickIcon: 1824425299174227447
+      FortifiedCamoTatteredBrickIcon: 6536630681025531695
+      RegrowShieldedBrick: 4170521828860444149
+      ShieldedTatteredBrick: -8951292358598720037
+      RegrowStaticBrickIcon: -6279674331420689548
+      CamoRegrowStaticBrick: 8916682720030596952
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: btdxbloons
+  assetBundleVariant: 
