@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1693053153
+    locked: 0
+  - name: Projectiles
+    uniqueID: 4079725679
+    locked: 0
+  - name: Bloons
+    uniqueID: 1835885177
+    locked: 0
+  - name: BossBloons
+    uniqueID: 4009461419
+    locked: 0
+  - name: ProjectilesOverBloons
+    uniqueID: 679001937
+    locked: 0
+  - name: ProjectilesOverBloons2
+    uniqueID: 982394405
+    locked: 0
+  - name: TransparentMapProps
+    uniqueID: 2137753395
+    locked: 0
+  - name: BadMoab
+    uniqueID: 608168395
+    locked: 0
+  - name: DdtMoab
+    uniqueID: 317646513
+    locked: 0
+  - name: ZomgMoab
+    uniqueID: 3585823037
+    locked: 0
+  - name: BfbMoab
+    uniqueID: 1955386945
+    locked: 0
+  - name: Moabs
+    uniqueID: 1512942243
+    locked: 0
+  - name: Pops
+    uniqueID: 1989686119
+    locked: 0
+  - name: OverlayEffects
+    uniqueID: 3050586745
+    locked: 0
+  - name: FullscreenEffects
+    uniqueID: 3743165279
+    locked: 0
