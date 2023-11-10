@@ -21,16 +21,15 @@ Unfinished never before uploaded source code from 2023
 ![FortifiedRegrowLead](https://github.com/Baydock/BTDX-Bloons/assets/150470953/75586a09-e78a-48d7-aa66-6b8fee6bb2c6)
 
 # Example
-![Brick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/94ee9f39-58f2-4ee5-b06b-fd785cac5c14)
-![CamoBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/80c919f0-4526-4b70-b62b-d147b64a783e)
-![FortifiedBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/c434ef23-8f08-4f3d-beb7-41c068fd42b8)
-![RegrowBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/ca2846f1-dc67-4bf9-b4fa-00426995f7f4)
-![CamoRegrowBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/2cc3246a-2061-46a7-b21e-afb639c6e96e)
-![FortifiedRegrowBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/54f14200-0fcd-4d0f-9535-ee7f497929f5)
-![FortifiedCamoRegrowBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/710caf3b-345e-4f14-bc7b-01967dbe7d99)
+## Basic Brick
+![Brick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/ccf34abe-7fce-43bd-9dc9-51f00f747329)
+![CamoBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/e59eb0d2-3df8-4d2f-bb85-f651f7fe0682)
+![FortifiedBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/31ebad49-b658-47c6-9508-0f0f7f3157e0)
+![FortifiedCamoBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/419bcf39-e23f-472f-9d2b-47ef730ea292)
+![RegrowBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/beae26b6-55c3-4e22-a919-4764b34cf07c)
+![CamoRegrowBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/323f021b-7e46-45eb-ac8b-4fdbae7eccd0)
+![FortifiedRegrowBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/8e0f9792-90c4-4f7a-b4f1-e10fc0ecc386)
+![FortifiedCamoRegrowBrick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/e1be355b-2ba6-4191-adfb-17988507ac04)
 
+## Combined
 ![Brick](https://github.com/Baydock/BTDX-Bloons/assets/150470953/2598de1e-e7f6-4ad1-a098-96a9fd6da351)
-![BrickD1](https://github.com/Baydock/BTDX-Bloons/assets/150470953/ec6b132c-d884-497a-9dad-47fd179d9197)
-![BrickD2](https://github.com/Baydock/BTDX-Bloons/assets/150470953/6ed2b2b4-bb9d-4227-8f08-1ced2a8d62ff)
-![BrickD3](https://github.com/Baydock/BTDX-Bloons/assets/150470953/09526abb-e148-4a1e-959c-d2e414cf2bcc)
-![BrickD4](https://github.com/Baydock/BTDX-Bloons/assets/150470953/0062f5a7-6de6-4473-ae4a-17d8321e08f1)
